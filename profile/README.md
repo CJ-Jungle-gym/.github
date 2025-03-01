@@ -1,7 +1,8 @@
 # CLOUD WAVE 5기 : CJ 올리브영 온라인 쇼핑몰 인프라 구축
 <br>
 
-![다운로드](https://github.com/user-attachments/assets/13965f38-cbad-4491-b9b1-7a0e8ebec58b)
+<img src="https://github.com/user-attachments/assets/13965f38-cbad-4491-b9b1-7a0e8ebec58b" width="1500" height="300">
+
 
 ## 🌏 전체 아키텍처
 <img src="../images/정글짐_아키텍처.png">
