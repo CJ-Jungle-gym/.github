@@ -8,7 +8,7 @@
 | <a href="https://github.com/MASEOKJAE">@MASEOKJAE</a> | <a href="https://github.com/kyebalza">@kyebalza</a> | <a href="https://github.com/ckqrhdl">@ckqrhdl</a> | <a href="https://github.com/jemsgusting">@jemsgusting</a> | <a href="https://github.com/rudalsss">@rudalsss</a> | <a href="https://github.com/hyeonahhh">@hyeonahhh</a> |
 <br>
 
-## 📌 전체 아키텍처
+## 🌏 전체 아키텍처
 <img src="../images/정글짐_아키텍처.png">
 <br>
 
@@ -19,6 +19,8 @@
 <br>
 
 ## 🕹 Tech Stack
+</br>
+</br>
 
 ## 1️⃣ 개발계
 <details>
@@ -131,3 +133,22 @@ ArgoCD를 이용하여 GitOps방식으로 EKS에서 GitOps방식으로 애플리
 </div>
 </details>
 </br>
+</br>
+</br>
+
+## 🎯 트러블 슈팅
+<details>
+<summary><strong>📌 어떤 트러블? </strong></summary>
+<div markdown="1">       
+
+#### ❗ 문제상황
+  
+#### 💡 Solution :
+ 
+#### ✔ 결과
+
+</div>
+</details>
+
+<br/>
+
