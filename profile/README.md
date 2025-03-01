@@ -96,6 +96,14 @@ ArgoCD를 이용하여 GitOps방식으로 EKS에서 GitOps방식으로 애플리
     - Terraform destroy 실행 및 EC2 삭제
     - 실패시 Slack 알림
 
+### ✅ Terraform
+
+- Terrraform을 사용한 AWS 리소스 apply 및 destory 자동화
+    - VPC , 서브넷, 라우팅테이블 등의 기본 구성 전개
+    - VPC peering, DMS 까지 자동화된 운영계 DB 및 이벤트계 DB 피어링을 통한 데이터 마이그레이션 수행 환경 구성
+- .tf 파일 리소스별 분리를 통한 유지관리 효율성 증대
+- depends_on 변수를 통한 리소스 실행 순서 지정으로 의존성 관리
+
 ### ✅ DMS
 
 - 동작 과정
