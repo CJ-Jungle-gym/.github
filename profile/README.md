@@ -1,4 +1,4 @@
-# 🌿 CLOUD WAVE 5기 : CJ 올리브영 온라인 쇼핑몰 인프라 구축
+# 🌿 CLOUD WAVE 4기 : CJ 올리브영 온라인 쇼핑몰 인프라 구축
 
 ![image](https://github.com/user-attachments/assets/604054a5-9329-4b3a-b073-3addc76dc995)
 
